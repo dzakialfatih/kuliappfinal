@@ -26,30 +26,26 @@ Proses perancangan dilakukan melalui lima tahapan, yaitu Empathize, Define, Idea
 
 ## 📱 Screenshot
 ## 1. Login
-(Pelanggan)
-<img width="203" height="430" alt="image" src="https://github.com/user-attachments/assets/86d7a483-5735-4e16-8403-b5d00b533c2c" />
-<img width="203" height="430" alt="image" src="https://github.com/user-attachments/assets/52d1c5dd-7dd7-40ec-83a1-289d72f8307b" />
-(kuli)
-<img width="234" height="496" alt="image" src="https://github.com/user-attachments/assets/d1f62de3-e55c-4221-a68c-7b62b943315e" />
-<img width="238" height="504" alt="image" src="https://github.com/user-attachments/assets/c40b5b43-dccc-436a-8375-5b9876f16b96" />
+<img width="720" height="1560" alt="WhatsApp Image 2025-06-27 at 20 37 47 (2)" src="https://github.com/user-attachments/assets/5b1083bd-f83e-4e74-b5f0-813b22c00bcf" />
 
 ## 2. Dashboard Pelanggan
-<img width="281" height="596" alt="image" src="https://github.com/user-attachments/assets/33a9ab4e-db50-46ce-8b6e-0a1b6a52bb5b" />
+<img width="720" height="1560" alt="WhatsApp Image 2025-06-27 at 20 37 47 (4)" src="https://github.com/user-attachments/assets/cdf07d0f-929f-49f0-ae4a-f66c218e7e4a" />
 
 ## 3. Profil Pengguna
-<img width="209" height="443" alt="image" src="https://github.com/user-attachments/assets/3028c3ff-dabd-4a43-9440-0556e2a13d6d" />
+<img width="720" height="1560" alt="WhatsApp Image 2025-06-27 at 20 37 47 (1)" src="https://github.com/user-attachments/assets/7609e05c-16d5-4d32-8909-86bbf5fddc83" />
 
 ## 4. Halaman Cari Kuli
-<img width="216" height="459" alt="image" src="https://github.com/user-attachments/assets/a86733e5-0210-4a06-abb2-c0f74722e48a" />
+<img width="720" height="1560" alt="WhatsApp Image 2025-06-27 at 20 37 47 (5)" src="https://github.com/user-attachments/assets/c94b4bd6-e6b8-43b2-8274-a60ffe0de545" />
 
 ## 5. Konfirmasi Pemesanan Kuli
-<img width="264" height="326" alt="image" src="https://github.com/user-attachments/assets/1e81ad0c-b473-4cff-a31a-efd04f184af5" />
+<img width="720" height="1560" alt="WhatsApp Image 2025-06-28 at 00 08 33" src="https://github.com/user-attachments/assets/cb5ab7ce-1153-4665-8b34-6c403c2c871f" />
 
 ## 6. Halaman Pemberian Rating
-<img width="282" height="313" alt="image" src="https://github.com/user-attachments/assets/6e6da680-e26e-4b45-bc7e-c5572736cf40" />
+<img width="720" height="1560" alt="WhatsApp Image 2025-06-28 at 00 22 57" src="https://github.com/user-attachments/assets/90d8b237-a3b1-42af-a4fd-33cc038e0f8d" />
 
 ## 7. Dashboard Kuli
-<img width="264" height="642" alt="image" src="https://github.com/user-attachments/assets/76cdacb9-b9ef-4b8f-b24d-38aacb1ca98d" />
+<img width="720" height="2146" alt="Screenshot_20250629-092621" src="https://github.com/user-attachments/assets/24a3733f-be5d-4c1b-bdf1-84168098e747" />
 
-## 8. Halamat Edit Profil Kuli
-<img width="264" height="642" alt="image" src="https://github.com/user-attachments/assets/c1a98906-0f09-4a1c-8fba-1550bdde1344" />
+## 8. Splash Screen
+<img width="720" height="1560" alt="WhatsApp Image 2025-06-27 at 20 37 47 (3)" src="https://github.com/user-attachments/assets/01b1c46d-8c68-40ca-b7fa-97844161b6cb" />
+
